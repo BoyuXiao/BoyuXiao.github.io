@@ -56,7 +56,8 @@ Chen Liang, Donghua Yang, Zheng Liang, Zhiyu Liang, Tianle Zhang, **Boyu Xiao**,
 
 
 # 🎖 Honors and Awards
-- *2024.10* National Scholarship (Top 2%). 
+- *2025.10* Heilongjiang Outstanding Undergraduate (Top 2%).
+- *2024.10* National Scholarship (Top 2%).
 
 <!-- # 📖 Educations -->
 <!-- - *2022.09 - 2026.06 (expected)*. Harbin Institute of Technology, Computer Science, School of Future Technology. -->
