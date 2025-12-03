@@ -42,7 +42,7 @@ Yi Li, Haonan Wang, Qixiang Zhang, **Boyu Xiao**, Chenchang Hu, Hualiang Wang, X
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDBJ</div><img src='images/Revisiting.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDBJ(CCF-A)</div><img src='images/Revisiting.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Revisiting Data Analysis with Pre-trained Foundation Models**
