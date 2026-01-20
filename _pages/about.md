@@ -19,9 +19,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Boyu Xiao, a third-year undergraduate student from [Harbin Institute of Technology](http://www.hit.edu.cn/). I was also a research intern at [MDC](https://db.hit.edu.cn/main.htm), where I am fortunate to be advised by Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and Prof. [Zemin Chao](https://homepage.hit.edu.cn/chaozemin).
+I am Boyu Xiao, a fourth-year undergraduate student from [Harbin Institute of Technology](http://www.hit.edu.cn/). I was also a research intern at [MDC](https://db.hit.edu.cn/main.htm), where I was fortunate to be advised by Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and Prof. [Zemin Chao](https://homepage.hit.edu.cn/chaozemin).
 
-My current research interests include time series data query and mining, as well as AI systems. Feel free to contact me.
+I have previously worked on time series data query and mining, and I am now eager to pursue meaningful research in AI systems.
 
 # 🔥 News
 <!-- - *2025.05*: &nbsp; H³DP is released. -->
