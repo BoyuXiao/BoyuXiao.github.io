@@ -37,7 +37,7 @@ I have previously worked on time series data query and mining, and I am now eage
 Yi Li, Haonan Wang, Qixiang Zhang, **Boyu Xiao**, Chenchang Hu, Hualiang Wang, Xiaomeng Li
 
 <a href="https://arxiv.org/pdf/2505.10483" target="_blank">**Paper**</a>
-<a href="https://xmed-lab.github.io/UniEval/" target="_blank">**Project**</a>
+<!-- <a href="https://xmed-lab.github.io/UniEval/" target="_blank">**Project**</a> -->
 
 </div>
 </div>
