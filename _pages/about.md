@@ -57,7 +57,7 @@ Chen Liang, Donghua Yang, Zheng Liang, Zhiyu Liang, Tianle Zhang, **Boyu Xiao**,
 
 # 🎖 Honors and Awards
 - *2025.10* Heilongjiang Outstanding Undergraduate (Top 2%).
-- *2025.05* National Second Prize, National College Student Software Innovation Competition (**Project**: <a href="https://github.com/BoyuXiao/AndroidSynth" target="_blank">AndroidSynth</a>).
+- *2025.05* National Second Prize, National College Student Software Innovation Competition <a href="https://github.com/BoyuXiao/AndroidSynth" target="_blank">**Project**</a>.
 - *2024.10* National Scholarship (Top 2%).
 - *2024.08* National Second Prize, National College Student Intelligent Vehicle Competition, Baidu Smart Transportation Track.
 
