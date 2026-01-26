@@ -56,10 +56,10 @@ Chen Liang, Donghua Yang, Zheng Liang, Zhiyu Liang, Tianle Zhang, **Boyu Xiao**,
 
 
 # 🎖 Honors and Awards
-- *2025.10* Heilongjiang Outstanding Undergraduate (Top 2%).
-- *2025.05* National Second Prize, National College Student Software Innovation Competition <a href="https://github.com/BoyuXiao/AndroidSynth" target="_blank">**Project**</a>.
-- *2024.10* National Scholarship (Top 2%).
-- *2024.08* National Second Prize, National College Student Intelligent Vehicle Competition, Baidu Smart Transportation Track.
+- *2025.10* Heilongjiang Outstanding Undergraduate (Top 2%)
+- *2025.05* National Second Prize, National College Student Software Innovation Competition <a href="https://github.com/BoyuXiao/AndroidSynth" target="_blank">**Project**</a>
+- *2024.10* National Scholarship (Top 2%)
+- *2024.08* National Second Prize, National College Student Intelligent Vehicle Competition, Baidu Smart Transportation Track <a href="https://github.com/BoyuXiao/19th_baidu_smart_car" target="_blank">**Project**</a>
 
 <!-- # 📖 Educations -->
 <!-- - *2022.09 - 2026.06 (expected)*. Harbin Institute of Technology, Computer Science, School of Future Technology. -->
