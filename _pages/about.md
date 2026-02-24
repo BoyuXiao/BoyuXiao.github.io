@@ -30,9 +30,6 @@ I have previously worked on time series data query and mining, and I am now eage
 
 # 🔥 News
 
-- **[2025.05]** - H³DP is released.
-- **[2025.02]** - ViTaS is released. Project page and Code is coming soon.
-
 # 📝 Publications 
 
 ## 2026
