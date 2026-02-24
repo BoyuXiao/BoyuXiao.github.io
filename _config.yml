@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Boyu Xiao"
-description              : "Whatever you do, do it a hundred percent."
+description              : "Incoming Msc@PKU."
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Boyu Xiao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Harbin Institute of Technology"
+  # bio              : "Harbin Institute of Technology"
   location         : "Harbin, China"
   employer         :
   pubmed           : 
