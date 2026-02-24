@@ -29,6 +29,19 @@ I have previously worked on time series data query and mining, and I am now eage
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2026 (CCF-A)</div><img src='images/icde2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Scaling Subsequence Similarity Join Based on Dynamic Time Warping**
+
+Zemin Chao, Qiaoyi Zheng, Xingxing Xiao, **Boyu Xiao**, Zhixin Qi, Hongzhi Wang
+
+<!-- <a href="https://arxiv.org/pdf/2505.10483" target="_blank">**Paper**</a> -->
+<!-- <a href="https://xmed-lab.github.io/UniEval/" target="_blank">**Project**</a> -->
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/UniEval.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
