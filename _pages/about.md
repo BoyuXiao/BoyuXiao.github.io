@@ -23,10 +23,9 @@ I have previously worked on time series data query and mining, and I am now eage
 
 # 📖 Educations
 
-* B.S. in Computer Science, School of Future Technology, Harbin Institute of Technology. 2022 - 2026 (expected).
+* B.S. in Harbin Institute of Technology. 2022 - 2026 (expected).
 
-* M.S. in [Institute of Data Science and Engineering](https://dse.pku.edu.cn/), Peking University. 2026 - 2029 (expected).
-  Adviser: Bin Cui
+* M.S. in Peking University. 2026 - 2029 (expected).
 
 # 🔥 News
 
