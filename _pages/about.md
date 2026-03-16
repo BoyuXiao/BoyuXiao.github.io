@@ -34,6 +34,16 @@ I have previously worked on time series data query and mining, and I am now eage
 
 ## 2026
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/bglb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A New Lower Bounding Paradigm and Tighter Lower Bounds for Elastic Similarity Measures**
+
+Zemin Chao, **Boyu Xiao**, Zitong Li, Zhixin Qi, Xianglong Liu, Hongzhi Wang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE (CCF-A)</div><img src='images/icde2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
