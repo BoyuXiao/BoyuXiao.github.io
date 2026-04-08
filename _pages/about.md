@@ -38,7 +38,7 @@ I have previously worked on time series data query and mining, and I am now eage
 
 **When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure**
 
-**Boyu Xiao**<sup>*</sup>, Xiuqi Tian<sup>*</sup>, Xuwen Song, Haochun Wang, Guanchun Song, Sendong Zhao, Bing Qin
+<b>Boyu Xiao\*</b>, Xiuqi Tian\*, Xuwen Song, Haochun Wang, Guanchun Song, Sendong Zhao, Bing Qin
 
 </div>
 </div>
@@ -48,7 +48,7 @@ I have previously worked on time series data query and mining, and I am now eage
 
 **A New Lower Bounding Paradigm and Tighter Lower Bounds for Elastic Similarity Measures**
 
-Zemin Chao, **Boyu Xiao**, Zitong Li, Zhixin Qi, Xianglong Liu, Hongzhi Wang
+Zemin Chao, <b>Boyu Xiao</b>, Zitong Li, Zhixin Qi, Xianglong Liu, Hongzhi Wang
 
 <a href="https://arxiv.org/abs/2603.14899" target="_blank">**Paper**</a>
 
@@ -60,7 +60,7 @@ Zemin Chao, **Boyu Xiao**, Zitong Li, Zhixin Qi, Xianglong Liu, Hongzhi Wang
 
 **Scaling Subsequence Similarity Join Based on Dynamic Time Warping**
 
-Zemin Chao, Qiaoyi Zheng, Xingxing Xiao, **Boyu Xiao**, Zhixin Qi, Hongzhi Wang
+Zemin Chao, Qiaoyi Zheng, Xingxing Xiao, <b>Boyu Xiao</b>, Zhixin Qi, Hongzhi Wang
 
 </div>
 </div>
@@ -72,7 +72,7 @@ Zemin Chao, Qiaoyi Zheng, Xingxing Xiao, **Boyu Xiao**, Zhixin Qi, Hongzhi Wang
 
 **Revisiting Data Analysis with Pre-trained Foundation Models**
 
-Chen Liang, Donghua Yang, Zheng Liang, Zhiyu Liang, Tianle Zhang, **Boyu Xiao**, Yuqing Yang, Wenqi Wang, Hongzhi Wang
+Chen Liang, Donghua Yang, Zheng Liang, Zhiyu Liang, Tianle Zhang, <b>Boyu Xiao</b>, Yuqing Yang, Wenqi Wang, Hongzhi Wang
 
 <a href="https://link.springer.com/article/10.1007/s00778-025-00953-5" target="_blank">**Paper**</a>
 
@@ -84,7 +84,7 @@ Chen Liang, Donghua Yang, Zheng Liang, Zhiyu Liang, Tianle Zhang, **Boyu Xiao**,
 
 **Unieval: Unified holistic evaluation for unified multimodal understanding and generation**
 
-Yi Li, Haonan Wang, Qixiang Zhang, **Boyu Xiao**, Chenchang Hu, Hualiang Wang, Xiaomeng Li
+Yi Li, Haonan Wang, Qixiang Zhang, <b>Boyu Xiao</b>, Chenchang Hu, Hualiang Wang, Xiaomeng Li
 
 <a href="https://arxiv.org/pdf/2505.10483" target="_blank">**Paper**</a>
 </div>
