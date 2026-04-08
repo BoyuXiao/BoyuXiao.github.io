@@ -33,7 +33,7 @@ I have previously worked on time series data query and mining, and I am now eage
 
 ## 2026
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/ACL2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL (CCF-A)</div><img src='images/ACL2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure**
