@@ -38,7 +38,7 @@ I have previously worked on time series data query and mining, and I am now eage
 
 **When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure**
 
-**Boyu Xiao***, Xiuqi Tian*, Xuwen Song, Haochun Wang, Guanchun Song, Sendong Zhao, Bing Qin
+**Boyu Xiao**<sup>*</sup>, Xiuqi Tian<sup>*</sup>, Xuwen Song, Haochun Wang, Guanchun Song, Sendong Zhao, Bing Qin
 
 </div>
 </div>
