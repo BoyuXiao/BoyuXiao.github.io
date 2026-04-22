@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi!😄 I am Boyu Xiao, an incoming Master's student at [Peking University](https://www.pku.edu.cn) advised by Prof. [Bin Cui](https://cuibinpku.github.io/), and currently a fourth-year undergraduate student at [Harbin Institute of Technology](http://www.hit.edu.cn/). I was also a research intern at [MDC](https://db.hit.edu.cn/main.htm), where I was fortunate to be advised by Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and Prof. [Zemin Chao](https://homepage.hit.edu.cn/chaozemin).
+Hi!😄 I am Boyu Xiao(肖博予), an incoming Master's student at [Peking University](https://www.pku.edu.cn) advised by Prof. [Bin Cui](https://cuibinpku.github.io/), and currently a fourth-year undergraduate student at [Harbin Institute of Technology](http://www.hit.edu.cn/). I was also a research intern at [MDC](https://db.hit.edu.cn/main.htm), where I was fortunate to be advised by Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and Prof. [Zemin Chao](https://homepage.hit.edu.cn/chaozemin).
 
 I have previously worked on time series data query and mining, and I am now eager to pursue meaningful research in AI systems.
 
