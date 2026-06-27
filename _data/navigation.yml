@@ -2,10 +2,10 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-    
+
   - title: "Educations"
     url: "/#-educations"
-    
+
   - title: "News"
     url: "/#-news"
 
@@ -15,10 +15,14 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-
+  # - title: "Systems"
+  #   url: "/#-systems"
 
   # - title: "Invited Talks"
-    # url: "/#-invited-talks"
+  #   url: "/#-invited-talks"
 
   # - title: "Internships"
-    # url: "/#-internships"
+  #   url: "/#-internships"
+
+  # - title: "Teaching Assistant"
+  #   url: "/#-teaching-assistant"
