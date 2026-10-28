@@ -19,13 +19,13 @@ redirect_from:
 
 Hi!😄 I am Boyu Xiao (肖博予), a first-year Master's student at [Peking University](https://www.pku.edu.cn) and a member of the DAIR Lab, advised by Prof. [Bin Cui](https://cuibinpku.github.io/). I received my B.Sc. degree in Computer Science and Technology from [School of Future Technology](https://future.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/) in June 2026. I was also a research intern at [MDC](https://db.hit.edu.cn/main.htm), where I was fortunate to be advised by Prof. [Hongzhi Wang](https://homepage.hit.edu.cn/wang) and Prof. [Zemin Chao](https://homepage.hit.edu.cn/chaozemin).
 
-My research interests lie in **Mixture-of-Experts (MoE)**, especially **MoE infrastructure and algorithms**.
+My research focuses on efficient machine learning systems, particularly infrastructure for Mixture-of-Experts (MoE) training.
 
 # 📖 Educations
 
 * B.S. in Computer Science and Technology, Harbin Institute of Technology. 2022-2026.
 
-* M.S. in Peking University (postgraduate recommendation exemption). 2026 - 2029.
+* M.S. in Peking University (postgraduate recommendation exemption). 2026-2029.
 
 # 🔥 News
 
@@ -59,8 +59,8 @@ My research interests lie in **Mixture-of-Experts (MoE)**, especially **MoE infr
 
 * Heilongjiang Outstanding Undergraduate (2025)
 
-* National Second Prize, National College Student Software Innovation Competition [[Project]](https://github.com/BoyuXiao/AndroidSynth) (2025)
+* National Second Prize, National College Student Software Innovation Competition (2025)
 
 * National Scholarship (2024)
 
-* National Second Prize, National College Student Intelligent Vehicle Competition, Baidu Smart Transportation Track [[Project]](https://github.com/BoyuXiao/19th_baidu_smart_car) (2024)
+* National Second Prize, National College Student Intelligent Vehicle Competition, Baidu Smart Transportation Track (2024)
